@@ -9,7 +9,7 @@ version: 2
 name: Vibhav Singh
 title: DevOps Engineer
 email: vibhavsingh1991@outlook.com
-website: www.vibhav91.github.io/resume-vibhav/
+website: https://www.vibhav91.github.io/resume-vibhav/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -21,7 +21,7 @@ github_username:  vibhav91
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: vibhav91
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -30,10 +30,10 @@ linkedin_username: vibhav91
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+  #icon: fas fa-globe
+  #url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
